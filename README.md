@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vc2zx.github.io">Portfolio</a> ·
+  <a href="https://vc2zx.github.io/">Portfolio</a> ·
   <a href="https://github.com/vc2zx/OPINION.Ai">OPINION.AI</a> ·
   <a href="mailto:sast3996@gmail.com">Email</a>
 </p>
@@ -44,7 +44,7 @@ AI-powered restaurant review analysis system built with Flask, SQLite, and machi
 **Personal Portfolio**
 A simple portfolio website for presenting my projects, skills, and background.
 
-→ [Visit Website](https://vc2zx.github.io)
+→ [Visit Website](https://github.com/vc2zx/vc2zx.github.io)
 
 ---
 
