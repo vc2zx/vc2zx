@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vc2zx.github.io/">Portfolio</a> ·
-  <a href="https://github.com/vc2zx/OPINION.Ai">OPINION.AI</a> ·
-  <a href="mailto:sast3996@gmail.com">Email</a>
+  <a href="https://vc2zx.github.io/">Portfolio</a> 
 </p>
 
 ---
@@ -54,7 +52,5 @@ A simple portfolio website for presenting my projects, skills, and background.
   <a href="mailto:sast3996@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/vc2zx">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
 </p>
