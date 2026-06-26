@@ -1,7 +1,7 @@
-<h1 align="center">Suliman Altayar</h1>
+<h1 align="center">Hi, I'm Suliman Altayar</h1>
 
 <p align="center">
-  Computer Science Graduate | Software Developer | AI & Web Development
+  Computer Science Graduate · Software Developer · AI & Web Development
 </p>
 
 <p align="center">
@@ -12,45 +12,49 @@
 
 ---
 
-## About Me
+### About
 
-I am a Computer Science graduate specializing in Artificial Intelligence, with practical experience in web development, databases, and applied machine learning projects.
+I build practical software projects using web development, databases, and applied machine learning.
 
-I focus on building practical software projects that connect web applications, data, and AI-based solutions.
+Currently improving my skills in Flask, SQL, machine learning, and clean project documentation.
 
-## Tech Stack
+---
 
-**Programming:** Python, JavaScript, SQL
-**Web Development:** Flask, HTML, CSS
-**Database:** SQLite
-**Machine Learning:** scikit-learn, TF-IDF, Logistic Regression, SVM, KNN, Decision Tree, Random Forest
-**Computer Vision:** OpenCV, HOG, LBP
-**Tools:** Git, GitHub, VS Code
+### Tech I Use
 
-## Featured Projects
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
-### OPINION.AI — AI-Powered Review Analysis System
+---
 
-A Flask-based web application that collects, stores, and analyzes restaurant reviews using SQLite and machine learning.
+### Featured Work
 
-**Tech:** Python, Flask, SQLite, HTML, CSS, scikit-learn, TF-IDF, Logistic Regression
-**Repository:** https://github.com/vc2zx/OPINION.Ai
+**OPINION.AI**
+AI-powered restaurant review analysis system built with Flask, SQLite, and machine learning.
 
-### Personal Portfolio Website
+→ [View Repository](https://github.com/vc2zx/OPINION.Ai)
 
-A responsive portfolio website that presents my background, skills, projects, and contact information.
+**Personal Portfolio**
+A simple portfolio website for presenting my projects, skills, and background.
 
-**Tech:** HTML, CSS, JavaScript, GitHub Pages
-**Website:** https://vc2zx.github.io
+→ [Visit Website](https://vc2zx.github.io)
 
-## Current Focus
+---
 
-* Strengthening backend development with Flask
-* Improving database design and SQL skills
-* Building stronger machine learning and computer vision projects
-* Writing cleaner GitHub repositories and project documentation
+### Contact
 
-## Contact
-
-**Email:** [sast3996@gmail.com](mailto:sast3996@gmail.com)
-**Portfolio:** https://vc2zx.github.io
+<p>
+  <a href="mailto:sast3996@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/vc2zx">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
