@@ -53,5 +53,4 @@ A responsive portfolio website that presents my background, skills, projects, an
 ## Contact
 
 **Email:** [sast3996@gmail.com](mailto:sast3996@gmail.com)
-**GitHub:** https://github.com/vc2zx
 **Portfolio:** https://vc2zx.github.io
