@@ -17,7 +17,6 @@
   </a>
 </p>
 
----
 
 ## About
 
@@ -37,20 +36,19 @@ Currently focused on web development, machine learning, and building useful soft
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=F97316" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=38BDF8" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-1E293B?style=for-the-badge&logo=scikitlearn&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-1E293B?style=for-the-badge&logo=python&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/TF--IDF-1E293B?style=for-the-badge&logo=python&logoColor=8B5CF6" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Computer%20Vision-1E293B?style=for-the-badge&logo=opencv&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-1E293B?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/scikit--learn-1E293B?style=for-the-badge&logo=scikitlearn&logoColor=F97316" />
+  <img src="https://img.shields.io/badge/TF--IDF-1E293B?style=for-the-badge&logo=python&logoColor=8B5CF6" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F97316" />
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" />
