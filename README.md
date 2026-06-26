@@ -12,9 +12,9 @@
 
 ### About
 
-I build practical software projects using web development, databases, and applied machine learning.
+I build practical full-stack software projects using frontend development, backend development, databases, and artificial intelligence.
 
-Currently improving my skills in Flask, SQL, machine learning, and clean project documentation.
+Currently focused on improving my skills in web development, machine learning, and building useful projects that solve real problems.
 
 ---
 
