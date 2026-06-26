@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050816,50:111827,100:312e81&text=Suliman%20Altayar&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20AI%20%26%20Web%20Development&descAlign=50&descAlignY=62&animation=fadeIn&section=header" 
+    src="[https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050816,50:111827,100:312e81&text=Suliman%20Altayar&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20AI%20%26%20Web%20Development&descAlign=50&descAlignY=62&animation=fadeIn&section=header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050816,50:111827,100:312e81&text=Suliman%20Altayar&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20AI%20and%20Web%20Development&descAlign=50&descAlignY=62&animation=fadeIn&section=header)" 
     alt="Suliman Altayar Banner" 
   />
 </p>
