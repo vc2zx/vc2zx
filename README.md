@@ -1,8 +1,15 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050816,50:111827,100:312e81&text=Suliman%20Altayar&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Artificial%20Intelligence&descAlignY=61&descSize=18&animation=fadeIn&section=header"
-    alt="Suliman Altayar"
-  />
+  <a href="https://vc2zx.github.io/">
+    <img
+      src="assets/suliman-logo.png"
+      alt="Suliman"
+      width="520"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <b>Software Developer · Artificial Intelligence</b>
 </p>
 
 <p align="center">
