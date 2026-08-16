@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://vc2zx.github.io/">
     <img
-      src="/SulimanLogoBX.png"
+      src="/SulimanLogoB.png"
       alt="Suliman"
       width="520"
     >
