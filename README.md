@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Software Developer · Artificial Intelligence</b>
+  <b>Software Development · Applied AI</b>
 </p>
 
 <p align="center">
@@ -123,7 +123,7 @@ A lightweight personal website presenting my selected projects, technical backgr
 
 ## Technical Stack
 
-### Software & Backend
+### Backend & Web Development
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
