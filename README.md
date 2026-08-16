@@ -7,65 +7,21 @@
 
 <p align="center">
   <a href="https://vc2zx.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/sulimanksa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a>
   <a href="mailto:sast3996@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
   </a>
 </p>
 
----
+## About
 
-## About Me
+Computer Science graduate specializing in Artificial Intelligence, building practical software systems across **backend development, databases, machine learning, NLP, and agentic AI**.
 
-I am a **Computer Science graduate specializing in Artificial Intelligence** from Majmaah University.
-
-I focus on building practical software and AI systems that combine **backend development, databases, machine learning, natural language processing, and intelligent workflows**.
-
-My current work centers on turning AI concepts into complete and usable software applications.
-
----
-
-## Technical Skills
-
-### Software Development
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FFD43B" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=sqlite&logoColor=38BDF8" alt="SQL">
-</p>
-
-### Backend & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask">
-  <img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=38BDF8" alt="SQLite">
-  <img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
-</p>
-
-### Artificial Intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-111827?style=flat-square&logo=python&logoColor=38BDF8" alt="Natural Language Processing">
-  <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=flat-square&logo=python&logoColor=8B5CF6" alt="Agentic AI">
-  <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=flat-square&logo=opencv&logoColor=22C55E" alt="Computer Vision">
-  <img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn">
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-111827?style=flat-square&logo=visualstudiocode&logoColor=38BDF8" alt="VS Code">
-</p>
+I focus on turning AI concepts into complete applications with clear workflows, usable interfaces, and structured backend systems.
 
 ---
 
@@ -73,29 +29,32 @@ My current work centers on turning AI concepts into complete and usable software
 
 ### BALAGH | بلاغ
 
-**Agentic AI · Software Development · Human-in-the-Loop**
+**Agentic AI · Backend Systems · Human-in-the-Loop**
 
-A community issue triage and case-coordination system designed to support structured handling of public reports.
+A community issue triage and case-coordination system that separates the citizen reporting experience from the internal staff workflow.
 
-BALAGH separates the citizen reporting experience from the internal staff workflow and combines deterministic processing with AI-assisted recommendations while keeping operational decisions under human control.
+BALAGH combines deterministic processing with AI-assisted analysis to classify reports, determine priority, route cases, detect duplicates, and support staff decisions while keeping operational actions under human control.
 
-**Key capabilities**
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/CrewAI-111827?style=flat-square" alt="CrewAI">
+  <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama">
+  <img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
+  <img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite">
+</p>
 
-- Issue classification and prioritization
-- Service department routing
-- Duplicate report detection
-- Missing-information detection
-- AI-assisted case analysis
-- Human approval workflow
-- Case history and audit trail
-
-**Technology**
-
-`Python` · `CrewAI` · `Ollama` · `Streamlit` · `SQLite` · `Qwen3`
+**Highlights**
+- Citizen and staff workflows
+- Deterministic classification, prioritization, and routing
+- Duplicate and missing-information detection
+- AI-assisted recommendations using read-only agent tools
+- Human review before operational decisions
+- SQLite persistence and case history
+- Automated workflow and database tests
 
 <p>
   <a href="https://github.com/vc2zx/BALAGH">
-    <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="BALAGH Repository">
+    <img src="https://img.shields.io/badge/Explore%20BALAGH-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="BALAGH Repository">
   </a>
 </p>
 
@@ -105,27 +64,29 @@ BALAGH separates the citizen reporting experience from the internal staff workfl
 
 **Natural Language Processing · Machine Learning · Web Development**
 
-A web application for collecting and analyzing restaurant customer reviews using machine learning and natural language processing.
+A full-stack restaurant review analysis application that collects written feedback and converts it into structured insights using traditional NLP and machine learning.
 
-The system combines a Flask backend, SQLite database, and machine-learning pipeline to classify review categories and predict customer sentiment through an administrative dashboard.
+The system combines a Flask backend, SQLite database, authentication, an administrative dashboard, and ML models for category classification and opinion prediction.
 
-**Key capabilities**
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask">
+  <img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite">
+  <img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn">
+</p>
 
-- Customer review collection
-- Category classification
-- Opinion prediction
+**Highlights**
+- Customer review submission
+- Multi-label review category classification
+- Positive, neutral, and negative opinion prediction
+- TF-IDF text representation
+- Logistic Regression models
 - Administrative dashboard
-- Authentication
-- CSV export
-- SQLite persistence
-
-**Technology**
-
-`Python` · `Flask` · `SQLite` · `scikit-learn` · `TF-IDF` · `Logistic Regression`
+- Authentication and CSV export
 
 <p>
   <a href="https://github.com/vc2zx/OPINION.Ai">
-    <img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="OPINION.AI Repository">
+    <img src="https://img.shields.io/badge/Explore%20OPINION.AI-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="OPINION.AI Repository">
   </a>
 </p>
 
@@ -133,60 +94,61 @@ The system combines a Flask backend, SQLite database, and machine-learning pipel
 
 ### Personal Portfolio
 
-**Web Development · Professional Portfolio**
+A lightweight personal website presenting my selected projects, technical background, professional development, and contact information.
 
-A responsive personal website presenting my background, selected projects, professional development, technical skills, education, and contact information.
-
-**Technology**
-
-`HTML` · `CSS` · `JavaScript` · `GitHub Pages`
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css&logoColor=663399" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-111827?style=flat-square&logo=githubpages&logoColor=FFFFFF" alt="GitHub Pages">
+</p>
 
 <p>
   <a href="https://vc2zx.github.io/">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-0891B2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/vc2zx/vc2zx.github.io">
-    <img src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code">
+    <img src="https://img.shields.io/badge/View%20Source-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source">
   </a>
 </p>
 
 ---
 
-## Education
+## Technical Stack
 
-**Bachelor of Science in Computer Science – Artificial Intelligence**
+### Software & Backend
 
-Majmaah University · 2022–2026
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sqlite" alt="Software and Backend Technologies">
+</p>
 
-**GPA:** 4.47 / 5
+### AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Natural Language Processing">
+  <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=python&logoColor=8B5CF6" alt="Agentic AI">
+  <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="Computer Vision">
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
+</p>
 
 ---
-
-## Current Areas of Work
-
-- Software and backend development
-- Applied artificial intelligence
-- Natural language processing
-- Agentic AI systems
-- Machine learning applications
-- Database-backed web applications
-
----
-
-## Connect
 
 <p align="center">
-  <a href="https://vc2zx.github.io/">
-    Portfolio
-  </a>
+  <b>Software Development · Applied AI · Building Practical Systems</b>
+</p>
+
+<p align="center">
+  <a href="https://vc2zx.github.io/">Portfolio</a>
   &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/sulimanksa/">
-    LinkedIn
-  </a>
+  <a href="https://www.linkedin.com/in/sulimanksa/">LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="mailto:sast3996@gmail.com">
-    Email
-  </a>
+  <a href="mailto:sast3996@gmail.com">Email</a>
 </p>
 
 <p align="center">
