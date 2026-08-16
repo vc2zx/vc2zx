@@ -106,7 +106,6 @@ A lightweight personal website presenting my selected projects, technical backgr
 <p>
   <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css&logoColor=663399" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/GitHub%20Pages-111827?style=flat-square&logo=githubpages&logoColor=FFFFFF" alt="GitHub Pages">
 </p>
 
