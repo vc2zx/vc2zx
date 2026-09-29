@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://vc2zx.github.io/">
     <img
-      src="/Logo.png"
+      src="Logo.png"
       alt="Suliman"
       width="520"
     >
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Software Development · Applied AI</b>
+  <b>Computer Science &amp; AI Graduate | Applied AI &amp; Quality Assurance | Test Automation</b>
 </p>
 
 <p align="center">
@@ -19,16 +19,16 @@
   <a href="https://www.linkedin.com/in/sulimanksa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:sast3996@gmail.com">
+  <a href="mailto:Suliman.A.Altayar@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
   </a>
 </p>
 
 ## About
 
-Computer Science graduate specializing in Artificial Intelligence, building practical software systems across **backend development, databases, machine learning, NLP, and agentic AI**.
+I am a Computer Science and AI graduate working across **applied AI, quality assurance, and test automation**. My projects include NLP and agentic AI applications, manual test design, Cypress end-to-end automation, and introductory performance testing with Apache JMeter.
 
-I focus on turning AI concepts into complete applications with clear workflows, usable interfaces, and structured backend systems.
+I build usable software systems and test them through clear workflows, documented test cases, and repeatable checks. I am currently completing Tuwaiq Academy's Software Testing & Automation Bootcamp and the Samsung Innovation Campus AI Course.
 
 ---
 
@@ -36,15 +36,17 @@ I focus on turning AI concepts into complete applications with clear workflows, 
 
 ### BALAGH | بلاغ
 
-**Agentic AI · Backend Systems · Human-in-the-Loop**
+**Agentic AI · RAG · Backend Systems · Human-in-the-Loop**
 
 A community issue triage and case-coordination system that separates the citizen reporting experience from the internal staff workflow.
 
-BALAGH combines deterministic processing with AI-assisted analysis to classify reports, determine priority, route cases, detect duplicates, and support staff decisions while keeping operational actions under human control.
+BALAGH combines deterministic processing, retrieval-augmented generation, and AI-assisted analysis to classify reports, determine priority, route cases, detect duplicates, and support staff decisions while keeping operational actions under human control.
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
   <img src="https://img.shields.io/badge/CrewAI-111827?style=flat-square" alt="CrewAI">
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" alt="LangGraph">
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG">
   <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama">
   <img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
   <img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite">
@@ -55,6 +57,7 @@ BALAGH combines deterministic processing with AI-assisted analysis to classify r
 - Deterministic classification, prioritization, and routing
 - Duplicate and missing-information detection
 - AI-assisted recommendations using read-only agent tools
+- Source-aware retrieval and stateful agent workflows
 - Human review before operational decisions
 - SQLite persistence and case history
 - Automated workflow and database tests
@@ -99,6 +102,25 @@ The system combines a Flask backend, SQLite database, authentication, an adminis
 
 ---
 
+### Software Testing | The Garage & OrangeHRM
+
+**Manual Testing · Cypress E2E · Apache JMeter**
+
+For **The Garage**, I designed manual test cases and bug reports for positive and negative functional scenarios. For **OrangeHRM**, I automated end-to-end workflows with Cypress covering Admin login, user and employee management, job titles, and My Info. I also used Apache JMeter for introductory performance testing and HTTP test plan debugging.
+
+<p>
+  <img src="https://img.shields.io/badge/Manual%20Testing-111827?style=flat-square" alt="Manual Testing">
+  <img src="https://img.shields.io/badge/Cypress-111827?style=flat-square&logo=cypress&logoColor=69D3A7" alt="Cypress">
+  <img src="https://img.shields.io/badge/Apache%20JMeter-111827?style=flat-square&logo=apachejmeter&logoColor=D22128" alt="Apache JMeter">
+</p>
+
+**Highlights**
+- Functional test cases and defect reports for The Garage
+- Cypress automation for core OrangeHRM workflows
+- Introductory JMeter performance testing and HTTP test plan debugging
+
+---
+
 ### Personal Portfolio
 
 A lightweight personal website presenting my selected projects, technical background, professional development, and contact information.
@@ -120,9 +142,24 @@ A lightweight personal website presenting my selected projects, technical backgr
 
 ---
 
+## Professional Development
+
+- **Software Testing & Automation Bootcamp** — Tuwaiq Academy · August 2026–Present  
+  Hands-on training in manual testing, Cypress end-to-end automation, and performance testing with Apache JMeter.
+- **Samsung Innovation Campus AI Course** — Samsung Innovation Campus · September 2026–Present  
+  Developing a stronger foundation in artificial intelligence through ongoing coursework and connecting the concepts to practical work in machine learning and applied AI.
+- **Advanced Agentic AI Systems Engineering** — SDAIA · August 2026  
+  Training in AI agents, tool integration, reasoning workflows, and multi-agent systems. [View certificate](https://athkax.sdaia.gov.sa/certificate-verification?type=Event&id=493&certificate=23400&learner=sast3996@gmail.com).
+- **Building Agentic AI Systems** — SDAIA · August 2026.
+- **Software Engineering Practices for AI Systems** — SDAIA · August–September 2026.
+- **Natural Language Processing Program** — Tuwaiq Academy · August 2026  
+  Applied NLP and transformer-based text processing. [View NVIDIA certificate](https://learn.nvidia.com/certificates?id=Nii4mKG0RkChhsvsIm7MBw).
+
+---
+
 ## Technical Stack
 
-### Backend & Web Development
+### Programming & Backend
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
@@ -130,19 +167,34 @@ A lightweight personal website presenting my selected projects, technical backgr
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge" alt="SQL">
   <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=44A2D4" alt="SQLite">
 </p>
 
-### AI & Machine Learning
+### AI Engineering
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning">
   <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Natural Language Processing">
   <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Agentic AI">
   <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge" alt="LangGraph">
+  <img src="https://img.shields.io/badge/CrewAI-111827?style=for-the-badge" alt="CrewAI">
+  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama">
 </p>
 
-### Development Tools
+### QA & Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Manual%20Testing-111827?style=for-the-badge" alt="Manual Testing">
+  <img src="https://img.shields.io/badge/Test%20Cases%20%26%20Bug%20Reports-111827?style=for-the-badge" alt="Test Cases and Bug Reports">
+  <img src="https://img.shields.io/badge/Cypress%20E2E-111827?style=for-the-badge&logo=cypress&logoColor=69D3A7" alt="Cypress E2E">
+  <img src="https://img.shields.io/badge/Apache%20JMeter-111827?style=for-the-badge&logo=apachejmeter&logoColor=D22128" alt="Apache JMeter">
+  <img src="https://img.shields.io/badge/HTTP%2FAPI%20Fundamentals-111827?style=for-the-badge" alt="HTTP and API Fundamentals">
+</p>
+
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
@@ -157,7 +209,7 @@ A lightweight personal website presenting my selected projects, technical backgr
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/sulimanksa/">LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="mailto:sast3996@gmail.com">Email</a>
+  <a href="mailto:Suliman.A.Altayar@gmail.com">Email</a>
 </p>
 
 <p align="center">
