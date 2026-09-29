@@ -142,21 +142,6 @@ A lightweight personal website presenting my selected projects, technical backgr
 
 ---
 
-## Professional Development
-
-- **Software Testing & Automation Bootcamp** — Tuwaiq Academy · August 2026–Present  
-  Hands-on training in manual testing, Cypress end-to-end automation, and performance testing with Apache JMeter.
-- **Samsung Innovation Campus AI Course** — Samsung Innovation Campus · September 2026–Present  
-  Developing a stronger foundation in artificial intelligence through ongoing coursework and connecting the concepts to practical work in machine learning and applied AI.
-- **Advanced Agentic AI Systems Engineering** — SDAIA · August 2026  
-  Training in AI agents, tool integration, reasoning workflows, and multi-agent systems. [View certificate](https://athkax.sdaia.gov.sa/certificate-verification?type=Event&id=493&certificate=23400&learner=sast3996@gmail.com).
-- **Building Agentic AI Systems** — SDAIA · August 2026.
-- **Software Engineering Practices for AI Systems** — SDAIA · August–September 2026.
-- **Natural Language Processing Program** — Tuwaiq Academy · August 2026  
-  Applied NLP and transformer-based text processing. [View NVIDIA certificate](https://learn.nvidia.com/certificates?id=Nii4mKG0RkChhsvsIm7MBw).
-
----
-
 ## Technical Stack
 
 ### Programming & Backend
