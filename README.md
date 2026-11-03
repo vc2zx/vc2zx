@@ -2,17 +2,17 @@
 
 # Suliman AlTayar
 
-**Quality Assurance Engineer | AI Engineering & Software Development**
+**AI Engineering | Software Engineering | Quality Assurance**
 
 Riyadh, Saudi Arabia · [Portfolio](https://vc2zx.github.io/) · [LinkedIn](https://www.linkedin.com/in/sulimanksa/) · [Email](mailto:Suliman.A.AlTayar@gmail.com)
 
 ## About
 
-I am a Computer Science graduate specializing in Artificial Intelligence, with practical projects in Python, NLP, agentic workflows, retrieval, and backend development.
+I am a Computer Science graduate specializing in Artificial Intelligence from Majmaah University, based in Riyadh. My practical work connects applied AI, Python development, backend applications, and software quality.
 
-I currently work as a **Quality Assurance Engineer in co-op training at Tuwaiq Academy**, selected after strong performance in its Software Testing & Automation Bootcamp. I review Jira user stories and acceptance criteria, manage testing for assigned tasks, design and execute functional, negative, regression, and end-to-end tests, maintain Playwright automation, and document and retest defects.
+My projects include Arabic-first agentic workflows and source retrieval in BALAGH, NLP and machine learning in OPINION.AI, and evidence management with human review in the unpublished BAYYIN prototype. These projects combine model integration, application logic, databases, and review workflows.
 
-My interests span applied AI, software engineering, backend development, quality engineering, and AI evaluation. **Playwright is my current professional automation tool; Cypress is part of my training and testing projects.**
+I also bring professional testing experience from my Quality Assurance Engineer co-op at Tuwaiq Academy. Building applications and testing their behavior inform how I approach reliable software and AI systems.
 
 ## Selected Projects
 
@@ -61,9 +61,17 @@ Selected projects, current experience, education, training, and contact details.
 | Quality engineering | Playwright, test design, manual, functional, negative, regression and end-to-end testing, defect reporting; Cypress, Postman and Apache JMeter from training and projects |
 | Development tools | Git, GitHub, Jira, Excel, HTML, CSS, Pandas, uv |
 
-## Experience & Education
+## Professional Experience
 
-- **Quality Assurance Engineer — Tuwaiq Academy**, Co-op Training, October 2026–Present.
+**Quality Assurance Engineer — Tuwaiq Academy**  
+Co-op Training · October 7, 2026–Present · Scheduled end: November 18, 2026
+
+Selected following strong performance in the Software Testing & Automation Bootcamp. I review Jira user stories and acceptance criteria, manage testing for assigned tasks, design and execute functional, negative, regression, and end-to-end tests, maintain Playwright automation in separate GitHub test suites, and document and retest defects using Jira and Excel.
+
+Playwright is my current professional automation tool; Cypress belongs to my earlier training and testing projects.
+
+## Education
+
 - **B.Sc. Computer Science – Artificial Intelligence — Majmaah University**, August 2022–June 2026. GPA: **4.47/5.00**, graduated with honors.
 - Arabic: Native · English: Proficient.
 
