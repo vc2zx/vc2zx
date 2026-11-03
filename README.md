@@ -1,205 +1,79 @@
-<p align="center">
-  <a href="https://vc2zx.github.io/">
-    <img
-      src="Logo.png"
-      alt="Suliman"
-      width="520"
-    >
-  </a>
-</p>
+<p align="center"><a href="https://vc2zx.github.io/"><img src="Logo.png" alt="Suliman AlTayar" width="520"></a></p>
 
-<p align="center">
-  <b>Computer Science &amp; AI Graduate | Applied AI &amp; Quality Assurance | Test Automation</b>
-</p>
+# Suliman AlTayar
 
-<p align="center">
-  <a href="https://vc2zx.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/sulimanksa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:Suliman.A.Altayar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
-  </a>
-</p>
+**Quality Assurance Engineer | AI Engineering & Software Development**
+
+Riyadh, Saudi Arabia · [Portfolio](https://vc2zx.github.io/) · [LinkedIn](https://www.linkedin.com/in/sulimanksa/) · [Email](mailto:Suliman.A.AlTayar@gmail.com)
 
 ## About
 
-I am a Computer Science and AI graduate working across **applied AI, quality assurance, and test automation**. My projects include NLP and agentic AI applications, manual test design, Cypress end-to-end automation, and introductory performance testing with Apache JMeter.
+I am a Computer Science graduate specializing in Artificial Intelligence, with practical projects in Python, NLP, agentic workflows, retrieval, and backend development.
 
-I build usable software systems and test them through clear workflows, documented test cases, and repeatable checks. I am currently completing Tuwaiq Academy's Software Testing & Automation Bootcamp and the Samsung Innovation Campus AI Course.
+I currently work as a **Quality Assurance Engineer in co-op training at Tuwaiq Academy**, selected after strong performance in its Software Testing & Automation Bootcamp. I review Jira user stories and acceptance criteria, manage testing for assigned tasks, design and execute functional, negative, regression, and end-to-end tests, maintain Playwright automation, and document and retest defects.
 
----
+My interests span applied AI, software engineering, backend development, quality engineering, and AI evaluation. **Playwright is my current professional automation tool; Cypress is part of my training and testing projects.**
 
-## Featured Projects
+## Selected Projects
 
-### BALAGH | بلاغ
+### [BALAGH | بلاغ](https://github.com/vc2zx/BALAGH)
+**Arabic-first local research prototype · Applied AI · Retrieval · Human review**
 
-**Agentic AI · RAG · Backend Systems · Human-in-the-Loop**
+Separates community report intake, local-model proposals, independent safety checks, source retrieval, duplicate suggestions, and staff decisions. The current Flask application queues model analysis for staff review and stores case history in SQLite. The repository also contains LangGraph workflows.
 
-A community issue triage and case-coordination system that separates the citizen reporting experience from the internal staff workflow.
+Python · Flask · LangGraph · Ollama · SQLite
 
-BALAGH combines deterministic processing, retrieval-augmented generation, and AI-assisted analysis to classify reports, determine priority, route cases, detect duplicates, and support staff decisions while keeping operational actions under human control.
+A prototype with no government integration or production deployment. See its repository for setup, evaluation limitations, and operating requirements.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/CrewAI-111827?style=flat-square" alt="CrewAI">
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" alt="LangGraph">
-  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG">
-  <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama">
-  <img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
-  <img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite">
-</p>
+### [OPINION.AI](https://github.com/vc2zx/OPINION.Ai)
+**NLP · Machine learning · Backend development**
 
-**Highlights**
-- Citizen and staff workflows
-- Deterministic classification, prioritization, and routing
-- Duplicate and missing-information detection
-- AI-assisted recommendations using read-only agent tools
-- Source-aware retrieval and stateful agent workflows
-- Human review before operational decisions
-- SQLite persistence and case history
-- Automated workflow and database tests
+A Flask review-analysis prototype with SQLite storage, TF-IDF and Logistic Regression models for category and opinion classification, an administrative dashboard, and CSV export.
 
-<p>
-  <a href="https://github.com/vc2zx/BALAGH">
-    <img src="https://img.shields.io/badge/Explore%20BALAGH-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="BALAGH Repository">
-  </a>
-</p>
+Python · Flask · SQLite · scikit-learn · TF-IDF · Logistic Regression
 
----
+### BAYYIN — Arabic Claim Review Workbench
+**Personal prototype · Evidence management · Human review**
 
-### OPINION.AI
+A Python and Flask prototype using TF-IDF retrieval against stored official-source passages. It keeps relevance scores separate from truth assessments and supports human approval, evidence versioning, and HTML/JSON exports. Source code is not yet published.
 
-**Natural Language Processing · Machine Learning · Web Development**
+### [Cypress Web Automation Assessment](https://github.com/vc2zx/Suliman-Altayar-Cypress-Automation)
+**Training and assessment project · JavaScript · Cypress**
 
-A full-stack restaurant review analysis application that collects written feedback and converts it into structured insights using traditional NLP and machine learning.
+14 unique tests cover The Garage and Satr navigation, language switching, program and course discovery, search, and empty sign-in validation. The repository records **14 passed, 0 failed** after execution on the Tuwaiq Academy network. This is a documented past result, not a new test run.
 
-The system combines a Flask backend, SQLite database, authentication, an administrative dashboard, and ML models for category classification and opinion prediction.
+This suite is separate from my current professional Playwright work.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask">
-  <img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite">
-  <img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn">
-</p>
+### [Raqib — Fraud Scoring Service](https://github.com/vc2zx/sda-aie-113-fraud-service)
+**Course-based engineering work · SDAIA Academy**
 
-**Highlights**
-- Customer review submission
-- Multi-label review category classification
-- Positive, neutral, and negative opinion prediction
-- TF-IDF text representation
-- Logistic Regression models
-- Administrative dashboard
-- Authentication and CSV export
+Work from Software Engineering Practices for AI Systems. The instructor supplied the project, model artifacts, datasets, and lab structure. The repository documents FastAPI serving, layered architecture, tests, Docker, and CI/CD; it is educational engineering work rather than an independently conceived product.
 
-<p>
-  <a href="https://github.com/vc2zx/OPINION.Ai">
-    <img src="https://img.shields.io/badge/Explore%20OPINION.AI-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="OPINION.AI Repository">
-  </a>
-</p>
+### [Personal Portfolio](https://vc2zx.github.io/)
+Selected projects, current experience, education, training, and contact details. [Source](https://github.com/vc2zx/vc2zx.github.io).
 
----
+## Technical Skills
 
-### Software Testing | The Garage & OrangeHRM
+| Area | Skills |
+| --- | --- |
+| Programming & backend | Python, SQL, JavaScript, Flask, SQLite, relational database design |
+| Applied AI & NLP | scikit-learn, TF-IDF, Logistic Regression, text classification, RAG, LangGraph, CrewAI, Ollama, embeddings and retrieval |
+| Quality engineering | Playwright, test design, manual, functional, negative, regression and end-to-end testing, defect reporting; Cypress, Postman and Apache JMeter from training and projects |
+| Development tools | Git, GitHub, Jira, Excel, HTML, CSS, Pandas, uv |
 
-**Manual Testing · Cypress E2E · Apache JMeter**
+## Experience & Education
 
-For **The Garage**, I designed manual test cases and bug reports for positive and negative functional scenarios. For **OrangeHRM**, I automated end-to-end workflows with Cypress covering Admin login, user and employee management, job titles, and My Info. I also used Apache JMeter for introductory performance testing and HTTP test plan debugging.
+- **Quality Assurance Engineer — Tuwaiq Academy**, Co-op Training, October 2026–Present.
+- **B.Sc. Computer Science – Artificial Intelligence — Majmaah University**, August 2022–June 2026. GPA: **4.47/5.00**, graduated with honors.
+- Arabic: Native · English: Proficient.
 
-<p>
-  <img src="https://img.shields.io/badge/Manual%20Testing-111827?style=flat-square" alt="Manual Testing">
-  <img src="https://img.shields.io/badge/Cypress-111827?style=flat-square&logo=cypress&logoColor=69D3A7" alt="Cypress">
-  <img src="https://img.shields.io/badge/Apache%20JMeter-111827?style=flat-square&logo=apachejmeter&logoColor=D22128" alt="Apache JMeter">
-</p>
+## Training & Certifications
 
-**Highlights**
-- Functional test cases and defect reports for The Garage
-- Cypress automation for core OrangeHRM workflows
-- Introductory JMeter performance testing and HTTP test plan debugging
+- **Samsung Innovation Campus AI Course** — ongoing, October–December 2026.
+- **Software Testing & Automation Bootcamp, Tuwaiq Academy** — completed October 2026; completion certificate received.
+- **Software Engineering Practices for AI Systems, SDAIA Academy** — September 2026.
+- **Advanced Agentic AI Systems Engineering, SDAIA Academy** — completed August 2026.
+- **Building Agentic AI Systems, SDAIA Academy** — completed August 2026.
+- **Building Transformer-Based Natural Language Processing Applications, NVIDIA** — August 2026.
 
----
-
-### Personal Portfolio
-
-A lightweight personal website presenting my selected projects, technical background, professional development, and contact information.
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css&logoColor=663399" alt="CSS">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-111827?style=flat-square&logo=githubpages&logoColor=FFFFFF" alt="GitHub Pages">
-</p>
-
-<p>
-  <a href="https://vc2zx.github.io/">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/vc2zx/vc2zx.github.io">
-    <img src="https://img.shields.io/badge/View%20Source-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source">
-  </a>
-</p>
-
----
-
-## Technical Stack
-
-### Programming & Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask">
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge" alt="SQL">
-  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=44A2D4" alt="SQLite">
-</p>
-
-### AI Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Natural Language Processing">
-  <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Agentic AI">
-  <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="Computer Vision">
-  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" alt="RAG">
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge" alt="LangGraph">
-  <img src="https://img.shields.io/badge/CrewAI-111827?style=for-the-badge" alt="CrewAI">
-  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama">
-</p>
-
-### QA & Testing
-
-<p>
-  <img src="https://img.shields.io/badge/Manual%20Testing-111827?style=for-the-badge" alt="Manual Testing">
-  <img src="https://img.shields.io/badge/Test%20Cases%20%26%20Bug%20Reports-111827?style=for-the-badge" alt="Test Cases and Bug Reports">
-  <img src="https://img.shields.io/badge/Cypress%20E2E-111827?style=for-the-badge&logo=cypress&logoColor=69D3A7" alt="Cypress E2E">
-  <img src="https://img.shields.io/badge/Apache%20JMeter-111827?style=for-the-badge&logo=apachejmeter&logoColor=D22128" alt="Apache JMeter">
-  <img src="https://img.shields.io/badge/HTTP%2FAPI%20Fundamentals-111827?style=for-the-badge" alt="HTTP and API Fundamentals">
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=23A8F2" alt="Visual Studio Code">
-</p>
-
----
-
-<p align="center">
-  <a href="https://vc2zx.github.io/">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/sulimanksa/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:Suliman.A.Altayar@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:312e81,50:111827,100:050816&section=footer"
-    alt="Footer"
-  />
-</p>
+[Portfolio](https://vc2zx.github.io/) · [LinkedIn](https://www.linkedin.com/in/sulimanksa/) · [Email](mailto:Suliman.A.AlTayar@gmail.com)
