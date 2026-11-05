@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>AI Engineering | Software Engineering | Quality Assurance</b>
+  <b>AI Engineering | Software Engineering</b>
 </p>
 
 <p align="center">
@@ -14,20 +14,20 @@
 
 ## About
 
-I'm Suliman AlTayar, a Computer Science graduate specializing in AI. I build applied AI and Python backend projects, with practical Playwright experience as a Quality Assurance Engineer (Co-op) at Tuwaiq Academy.
+I build applied AI tools, Python backends, and automated tests. My repositories cover Arabic NLP, retrieval, agentic workflows, and web test automation.
 
 ## Featured Projects
 
 ### [BALAGH | بلاغ](https://github.com/vc2zx/BALAGH)
-Arabic-first local research prototype for report intake, model proposals, retrieval, and staff review. Flask and SQLite power the current application; separate LangGraph workflows use in-memory checkpoints. No government integration or production deployment.
+Arabic-first local research prototype for report intake, model proposals, retrieval, and staff review. Flask and SQLite power the current application; separate LangGraph workflows use in-memory checkpoints. Human staff control decisions. Exact category-set matching improved from **47% (rules baseline) to 81% (semantic approach)** on 36 author-labelled synthetic Arabic cases.
 
 [Evaluation](https://github.com/vc2zx/BALAGH/blob/main/docs/EVALUATION.md) · [CI](https://github.com/vc2zx/BALAGH/actions/workflows/unit-tests.yml)
 
 ### [OPINION.AI](https://github.com/vc2zx/OPINION.Ai)
-Flask and SQLite review-analysis prototype using TF-IDF and Logistic Regression, with a dashboard and CSV export. Small controlled training datasets; no validated real-world performance claim.
+Flask and SQLite review-analysis prototype using TF-IDF and Logistic Regression, with a dashboard and CSV export. Trained on small controlled datasets.
 
 ### [Cypress Web Automation Assessment](https://github.com/vc2zx/Suliman-Altayar-Cypress-Automation)
-Training suite for The Garage and Satr: 14 unique E2E cases. The documented historical result is 14 passed, 0 failed; this is separate from my professional Playwright work.
+Training suite for The Garage and Satr: 14 unique E2E cases. Recorded assessment result: **14 passed, 0 failed**.
 
 ### [Raqib — Fraud Scoring Service](https://github.com/vc2zx/sda-aie-113-fraud-service)
 Instructor-supplied SDAIA course work covering FastAPI, layered architecture, tests, Docker, and CI/CD.
