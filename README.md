@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://vc2zx.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/sulimanksa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:Suliman.A.AlTayar@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
+  <a href="mailto:AlTayar.Suliman@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
 </p>
 
 ## About
@@ -76,7 +76,7 @@ BAYYIN is an unpublished personal evidence-review prototype; details are on my [
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/sulimanksa/">LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="mailto:Suliman.A.AlTayar@gmail.com">Email</a>
+  <a href="mailto:AlTayar.Suliman@gmail.com">Email</a>
 </p>
 
 <p align="center">
